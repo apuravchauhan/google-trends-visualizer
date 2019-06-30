@@ -15,5 +15,10 @@ python3 google-trend-visualizer.py
 6. It will create an html file in the current location with your interactive visualization
 
 
+## Sample data
+Sample data for country wise programming languages and current technology is available in data and tech-data folders respectively
+
+
+
 ## TODO
 Make more user friendly to minimize the above steps required
